@@ -20,7 +20,7 @@ This project implements an **Anomaly Detection System** using **Deep Learning (A
   - **Accuracy:** `99%`  
 - **Model Saved As:** `autoencoder_model.h5`
 
-## 📝 License  
+## License  
 
 This project is licensed under the **MIT License** 
 
