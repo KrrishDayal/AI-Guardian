@@ -20,3 +20,15 @@ This project implements an **Anomaly Detection System** using **Deep Learning (A
   - **Accuracy:** `99%`  
 - **Model Saved As:** `autoencoder_model.h5`
 
+## 📝 License  
+
+This project is licensed under the **MIT License** 
+
+## Acknowledgments  
+
+- **Dataset:** KDD Cup 99 (via scikit-learn)  
+- **Libraries Used:** TensorFlow, Scikit-learn, Pandas, Matplotlib  
+- **Inspiration:** Research in anomaly detection and cybersecurity  
+
+If you find this project useful, consider **starring** the repository!   
+
