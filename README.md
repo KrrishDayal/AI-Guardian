@@ -11,7 +11,7 @@ This project implements an **Anomaly Detection System** using **Deep Learning (A
 - **Test Samples:** `494,021`
 - **Anomalies Detected:** Identifies outliers based on learned patterns.
 
-## Achievements
+## Achievement
 - **ROC AUC Score:** `0.9865`
 - **Model Type:** Deep Learning-based Autoencoder.
 - **Performance Metrics:**  
